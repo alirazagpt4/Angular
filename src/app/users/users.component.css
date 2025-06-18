@@ -1,0 +1,36 @@
+.full-width-table {
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  mat-form-field {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+
+  .container-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full screen height */
+    padding: 20px;
+  }
+  
+  mat-card {
+    width: 100%;
+    max-width: 800px;
+    padding: 20px;
+  }
+
+  
+  button{
+    width: 200px;
+    border: none;
+    border-radius: 10px;
+    padding: 8px 8px;
+    background-color: rgb(56, 181, 227);
+    color: white;
+    margin: 3px;
+
+  }
